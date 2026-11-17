@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_004,loi_may,"YOLO26n gán truck cho vùng khớp box three_wheeler sau duyệt với IoU 0,940 (conf 0,5692).",Giữ nhãn three_wheeler đã duyệt ở img_004.,"Xác định lớp theo cấu tạo xe và số bánh nhìn được. Nếu thiếu dấu hiệu, đánh dấu can_review.",v1.1
+CAL-02,img_013,cau_hoi_mo,"Mục 6 câu 7 hỏi có ngưỡng conf nào để giữ nguyên box. Một box truck có conf 0,7837 và khớp box three_wheeler sau duyệt với IoU 0,940.",Kiểm lớp và vị trí dù conf cao.,Dùng conf để ưu tiên thứ tự duyệt. Xác nhận lớp và vị trí trên ảnh trước khi giữ box.,v1.1
+CAL-03,img_031,bay_lot,"Lượt Batch đầu được script chấm lọt bẫy missing person sát mép trên. Khi kiểm QC ảnh img_031, học viên không ghi nhận lỗi.",Quét bốn mép ảnh trước khi hiện nhãn máy.,Kiểm người bị cắt mép theo ngưỡng kích thước và phần nhìn thấy trong v1.0. Giữ riêng kết quả bẫy và kết quả QC.,v1.1

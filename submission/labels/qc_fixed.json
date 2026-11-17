@@ -1,0 +1,373 @@
+{
+  "licenses": [
+    {
+      "name": "",
+      "id": 0,
+      "url": ""
+    }
+  ],
+  "info": {
+    "contributor": "",
+    "date_created": "",
+    "description": "",
+    "url": "",
+    "version": "",
+    "year": ""
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "person",
+      "supercategory": ""
+    },
+    {
+      "id": 2,
+      "name": "bicycle",
+      "supercategory": ""
+    },
+    {
+      "id": 3,
+      "name": "motorbike",
+      "supercategory": ""
+    },
+    {
+      "id": 4,
+      "name": "car",
+      "supercategory": ""
+    },
+    {
+      "id": 5,
+      "name": "bus",
+      "supercategory": ""
+    },
+    {
+      "id": 6,
+      "name": "truck",
+      "supercategory": ""
+    },
+    {
+      "id": 7,
+      "name": "three_wheeler",
+      "supercategory": ""
+    },
+    {
+      "id": 8,
+      "name": "ignore_region",
+      "supercategory": ""
+    }
+  ],
+  "images": [
+    {
+      "id": 18,
+      "width": 1024,
+      "height": 576,
+      "file_name": "img_027.jpg",
+      "license": 0,
+      "flickr_url": "",
+      "coco_url": "",
+      "date_captured": 0
+    }
+  ],
+  "annotations": [
+    {
+      "id": 302,
+      "image_id": 18,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 6503.670399999994,
+      "bbox": [
+        670.84,
+        327.64,
+        42.43,
+        153.28
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "",
+        "can_review": false,
+        "occluded": true,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 303,
+      "image_id": 18,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 957.8051999999992,
+      "bbox": [
+        866.32,
+        349.75,
+        21.66,
+        44.22
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "",
+        "can_review": false,
+        "occluded": true,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 304,
+      "image_id": 18,
+      "category_id": 7,
+      "segmentation": [],
+      "area": 3633.376499999998,
+      "bbox": [
+        962.97,
+        359.8,
+        54.27,
+        66.95
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "",
+        "can_review": false,
+        "occluded": true,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 305,
+      "image_id": 18,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 19996.259299999994,
+      "bbox": [
+        261.6,
+        379.3,
+        129.77,
+        154.09
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "0.80",
+        "can_review": false,
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 306,
+      "image_id": 18,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 13444.773000000008,
+      "bbox": [
+        285.2,
+        325.53,
+        79.9,
+        168.27
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "0.74",
+        "can_review": false,
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 307,
+      "image_id": 18,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 20077.319100000004,
+      "bbox": [
+        82.87,
+        334.4,
+        136.33,
+        147.27
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "0.82",
+        "can_review": false,
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 309,
+      "image_id": 18,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 382.39680000000135,
+      "bbox": [
+        802.02,
+        358.12,
+        13.06,
+        29.28
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "0.33",
+        "can_review": false,
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 310,
+      "image_id": 18,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 4212.740999999998,
+      "bbox": [
+        0.09,
+        388.1,
+        42.51,
+        99.1
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "0.48",
+        "can_review": false,
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 311,
+      "image_id": 18,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 16621.125,
+      "bbox": [
+        462.3,
+        382.0,
+        104.7,
+        158.75
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "0.80",
+        "can_review": false,
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 312,
+      "image_id": 18,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 3229.6226999999935,
+      "bbox": [
+        970.57,
+        324.07,
+        36.83,
+        87.69
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "0.55",
+        "can_review": false,
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 313,
+      "image_id": 18,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 14307.677400000006,
+      "bbox": [
+        619.25,
+        383.2,
+        97.69,
+        146.46
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "0.77",
+        "can_review": false,
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 314,
+      "image_id": 18,
+      "category_id": 3,
+      "segmentation": [],
+      "area": 718.244,
+      "bbox": [
+        866.6,
+        367.1,
+        21.1,
+        34.04
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "0.39",
+        "can_review": false,
+        "occluded": false,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 315,
+      "image_id": 18,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 13439.288800000004,
+      "bbox": [
+        623.67,
+        324.57,
+        79.73,
+        168.56
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "0.78",
+        "can_review": false,
+        "occluded": true,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 316,
+      "image_id": 18,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 14771.392000000007,
+      "bbox": [
+        470.4,
+        328.38,
+        88.6,
+        166.72
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "0.73",
+        "can_review": false,
+        "occluded": true,
+        "rotation": 0.0
+      }
+    },
+    {
+      "id": 317,
+      "image_id": 18,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 5927.433200000001,
+      "bbox": [
+        531.88,
+        325.52,
+        37.13,
+        159.64
+      ],
+      "iscrowd": 0,
+      "attributes": {
+        "conf": "",
+        "can_review": false,
+        "occluded": true,
+        "rotation": 0.0
+      }
+    }
+  ]
+}

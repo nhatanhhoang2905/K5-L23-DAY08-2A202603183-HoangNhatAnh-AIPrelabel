@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,Học viên,"Học viên đã kiểm ảnh và không ghi nhận lỗi, gồm vùng hai box person #19 và #21."
+img_006.jpg,,khong,Học viên,Học viên đã kiểm ảnh và không ghi nhận lỗi.
+img_014.jpg,,khong,Học viên,Học viên đã kiểm ảnh và không ghi nhận lỗi.
+img_031.jpg,,khong,Học viên,Học viên đã kiểm ảnh và không ghi nhận lỗi QC. Lượt Batch đầu vẫn được script chấm lọt bẫy missing theo khóa bẫy.
+img_035.jpg,,khong,Học viên,Học viên đã kiểm ảnh và không ghi nhận lỗi.
