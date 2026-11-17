@@ -1,1 +1,3 @@
 step,images,minutes,note
+gold_manual,4,15,Gán tay 4 ảnh Gold trong CVAT
+batch_review,24,50,Duyệt 24 ảnh Batch trong CVAT
